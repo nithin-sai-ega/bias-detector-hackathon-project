@@ -14,6 +14,10 @@ Open the extension on any page and click **Analyze current webpage**, or use **M
 
 > The results are an AI model's estimates, not fact-checks. Treat them as a starting point for your own judgment.
 
+<p align="center">
+  <img src="docs/popup.jpg" alt="The Bias Detector popup" width="320">
+</p>
+
 ## How it works
 
 ```mermaid
@@ -122,7 +126,7 @@ biasdetector/
             └── lib/api.js
 ```
 
-`Bias Detector Project/` holds an earlier snapshot of the same project, and `Final Bias Detector Project.zip` is a downloadable copy. The code in `biasdetector/` is the latest version.
+`Final Bias Detector Project.zip` is a downloadable copy of the project.
 
 ## Known limitations
 
